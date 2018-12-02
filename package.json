@@ -1,0 +1,19 @@
+{
+  "name": "dropbox-large-file-uploader",
+  "version": "0.1.0",
+  "description": "A way to upload large files to dropbox",
+  "main": "main.js",
+  "dependencies": {
+    "dropbox": "^4.0.13",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "devDependencies": {
+    "electron": "^3.0.10"
+  },
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Rogers",
+  "license": "MIT"
+}
